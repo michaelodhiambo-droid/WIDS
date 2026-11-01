@@ -2,7 +2,7 @@
 
 A prototype wireless intrusion detection system (WIDS) with an optional prevention step (WIPS). It reads recorded 802.11 traffic, groups it into one-second windows per sender, computes simple features, and uses scikit-learn classifiers (Decision Tree, Random Forest, Histogram Gradient Boosting) to label each window as normal or attack. It raises an alert for each detected deauthentication flood and logs the offending sender address.
 
-**Author:** [your name] · **Course:** [course and code] · **Date:** [date]
+**Author:** Michael Odhiambo in collab with claude ai
 
 ## Data
 
