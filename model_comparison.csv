@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,cv_f1_mean,cv_f1_std,train_s
+Decision Tree,0.9989,0.9867,1.0,0.9933,0.9912,0.0051,0.0109
+Random Forest,0.9989,0.9867,1.0,0.9933,0.9912,0.005,0.5901
+Hist Gradient Boosting,0.9966,0.9863,0.973,0.9796,0.9942,0.0048,1.7089

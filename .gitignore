@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors
+.vscode/
+.cursor/
+
+# Generated and rebuilt by the scripts
+windows_*.pkl
+wids_model.joblib
+
+# Dataset: never commit (files are large and not ours to redistribute)
+archive/
+1.Deauth/
+Deauth_*.csv
+*.zip
+
+results*.txt
+scan_output.txt
+*copy*.py

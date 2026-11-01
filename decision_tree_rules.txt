@@ -1,0 +1,7 @@
+|--- deauth_per_s <= 1.50
+|   |--- deauth_ratio <= 0.29
+|   |   |--- class: 0
+|   |--- deauth_ratio >  0.29
+|   |   |--- class: 1
+|--- deauth_per_s >  1.50
+|   |--- class: 1
